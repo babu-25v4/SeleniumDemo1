@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+      <class name="testng.TestNGBasics1">
+        <test-method status="PASS" signature="createDBConn()[pri:0, instance:testng.TestNGBasics1@59f99ea]" name="createDBConn" is-config="true" duration-ms="17" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDBConn -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testng.TestNGBasics1@59f99ea]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testTwo()[pri:1, instance:testng.TestNGBasics1@59f99ea]" name="testTwo" duration-ms="8" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testng.TestNGBasics1@59f99ea]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testng.TestNGBasics1@59f99ea]" name="launchBrowser" is-config="true" duration-ms="1" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testOne()[pri:2, instance:testng.TestNGBasics1@59f99ea]" name="testOne" duration-ms="4" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testng.TestNGBasics1@59f99ea]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDBConnection()[pri:0, instance:testng.TestNGBasics1@59f99ea]" name="closeDBConnection" is-config="true" duration-ms="1" started-at="2019-09-09T15:37:39Z" finished-at="2019-09-09T15:37:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConnection -->
+      </class> <!-- testng.TestNGBasics1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

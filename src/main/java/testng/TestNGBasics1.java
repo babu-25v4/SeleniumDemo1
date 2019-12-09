@@ -15,7 +15,7 @@ public class TestNGBasics1 {
 	
 	@BeforeTest
 	public void createDBConn(){
-		System.out.println("Create DB connection");
+		System.out.println("Create DB connection...");
 	}
 	
 	@AfterMethod
